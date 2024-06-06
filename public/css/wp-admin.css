@@ -1,0 +1,47 @@
+#wpbody-content div[data-name="zagolovok_h1"] label {
+	color: #c5293e;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+
+#adminmenu .toplevel_page_acf-options-glavnaya-stranicza div.wp-menu-name,
+#adminmenu .menu-icon-career div.wp-menu-name {
+	font-weight: 500;
+	color: #2ee300;
+}
+
+#adminmenu .toplevel_page_acf-options-kontakty  div.wp-menu-name,
+#adminmenu .menu-icon-services div.wp-menu-name{
+	font-weight: 500;
+	color: #00b6ff
+}
+
+#adminmenu .menu-icon-products div.wp-menu-name{
+	font-weight: 500;
+	color: #00fdff
+}
+
+/*
+#adminmenu .toplevel_page_acf-options-kontakty div.wp-menu-image:before,
+#adminmenu .toplevel_page_acf-options-voprosy .wp-has-current-submenu div.wp-menu-image:before,
+#adminmenu .menu-icon-cities .wp-has-current-submenu div.wp-menu-image:before,
+#adminmenu .menu-icon-services .wp-has-current-submenu div.wp-menu-image:before,
+#adminmenu .menu-icon-career .wp-has-current-submenu div.wp-menu-image:before {
+	color: #2ee300;
+}
+*/
+
+
+.acf-field.acf-accordion .acf-label.acf-accordion-title {
+	background: #dfdfdf;
+	border-bottom: 2px solid #fff;
+	color: #000;
+}
+
+
+.form_info_box {
+	background: azure;
+	padding: 15px;
+}
+
